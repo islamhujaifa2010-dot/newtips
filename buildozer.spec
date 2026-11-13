@@ -26,7 +26,7 @@ orientation = portrait
 
 #
 # Android specific
-#
+# android.accept_sdk_license = True
 
 # (list) Permissions
 android.permissions = INTERNET
